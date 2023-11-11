@@ -1,0 +1,14 @@
+C:\Users\Ryzen Vi\Desktop\Projetos-DIO\DIO-Projetos-Concluidos\TDDeTestesUnitariosPratica\bin\Debug\net6.0\TDDeTestesUnitariosPratica.exe
+C:\Users\Ryzen Vi\Desktop\Projetos-DIO\DIO-Projetos-Concluidos\TDDeTestesUnitariosPratica\bin\Debug\net6.0\TDDeTestesUnitariosPratica.deps.json
+C:\Users\Ryzen Vi\Desktop\Projetos-DIO\DIO-Projetos-Concluidos\TDDeTestesUnitariosPratica\bin\Debug\net6.0\TDDeTestesUnitariosPratica.runtimeconfig.json
+C:\Users\Ryzen Vi\Desktop\Projetos-DIO\DIO-Projetos-Concluidos\TDDeTestesUnitariosPratica\bin\Debug\net6.0\TDDeTestesUnitariosPratica.dll
+C:\Users\Ryzen Vi\Desktop\Projetos-DIO\DIO-Projetos-Concluidos\TDDeTestesUnitariosPratica\bin\Debug\net6.0\TDDeTestesUnitariosPratica.pdb
+C:\Users\Ryzen Vi\Desktop\Projetos-DIO\DIO-Projetos-Concluidos\TDDeTestesUnitariosPratica\obj\Debug\net6.0\TDDeTestesUnitariosPratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen Vi\Desktop\Projetos-DIO\DIO-Projetos-Concluidos\TDDeTestesUnitariosPratica\obj\Debug\net6.0\TDDeTestesUnitariosPratica.AssemblyInfoInputs.cache
+C:\Users\Ryzen Vi\Desktop\Projetos-DIO\DIO-Projetos-Concluidos\TDDeTestesUnitariosPratica\obj\Debug\net6.0\TDDeTestesUnitariosPratica.AssemblyInfo.cs
+C:\Users\Ryzen Vi\Desktop\Projetos-DIO\DIO-Projetos-Concluidos\TDDeTestesUnitariosPratica\obj\Debug\net6.0\TDDeTestesUnitariosPratica.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen Vi\Desktop\Projetos-DIO\DIO-Projetos-Concluidos\TDDeTestesUnitariosPratica\obj\Debug\net6.0\TDDeTestesUnitariosPratica.dll
+C:\Users\Ryzen Vi\Desktop\Projetos-DIO\DIO-Projetos-Concluidos\TDDeTestesUnitariosPratica\obj\Debug\net6.0\refint\TDDeTestesUnitariosPratica.dll
+C:\Users\Ryzen Vi\Desktop\Projetos-DIO\DIO-Projetos-Concluidos\TDDeTestesUnitariosPratica\obj\Debug\net6.0\TDDeTestesUnitariosPratica.pdb
+C:\Users\Ryzen Vi\Desktop\Projetos-DIO\DIO-Projetos-Concluidos\TDDeTestesUnitariosPratica\obj\Debug\net6.0\TDDeTestesUnitariosPratica.genruntimeconfig.cache
+C:\Users\Ryzen Vi\Desktop\Projetos-DIO\DIO-Projetos-Concluidos\TDDeTestesUnitariosPratica\obj\Debug\net6.0\ref\TDDeTestesUnitariosPratica.dll
