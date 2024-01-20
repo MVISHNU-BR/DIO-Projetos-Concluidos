@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Raleway, sans-serif;
+}
+
+body{
+    background-color: #000;
+    color: #fff;
+}
+
+.banner{
+    height: 605px;
+
+    background: 
+        url(../assets/images/banner.png),
+        linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(49, 168, 221, 0) 100%);
+    background-origin: content-box;
+    background-repeat: no-repeat;
+
+    border-bottom: 2px solid rgba(51, 168, 219, 1);
+}
+
+.banner-content{
+    padding-top: 56px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+
+.banner-content h1{
+    font-family: Releway,sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    
+    background: linear-gradient(180deg, #33A8DB 0%, #1472B7 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.banner-content p{
+    width: 510px;
+    font-family: Releway,sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.banner-content button{
+    color: #31A8BD;
+    width: 326px;
+    padding: 19px;
+    box-sizing:content-box;
+    gap: 31px;
+    
+    background: transparent;
+    border: 2px solid #3BA1CD;
+
+    text-align: center;
+    font-family: Releway,sans-serif;
+    font-size: 16px;
+    font-weight: 900;
+    letter-spacing: 3.36px;
+    text-transform: uppercase;
+}
+
+/*            Segunda seção*/
+#course-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+}
+
+#course-content h2{
+    color: #33A8DB;
+    font-family: Raleway;
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 6.08px;
+
+    margin-top: 118px;
+}
+
+#course-content p{
+    width: 792px;
+    font-family: Raleway,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    line-height: normal;
+}
+
+.modules-list{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+}
+
+.module{
+ 
+    width: 536px;
+    padding: 16px 127px;
+    align-items: center;
+
+    border-radius: 57px;
+    border: 1px solid #33A8DB;
+    background: #252525;
+    box-shadow: -2px 6px 4px 0px rgba(0, 0, 0, 0.40) inset;
+
+    font-family: Raleway;
+    font-size: 16px;
+}
+
+.module span{
+    color: #33A8DB;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: normal;
+}
+
+.module:last-child{
+    margin-bottom: 90px;
+}
+
+/*            Terceira seção*/
+
+#transform-world{
+    height: 363px;
+
+    background: url(../assets/images/woman-code.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /*Refazer com a imagem original */
+
+    border-top: 1px solid #33A8DB;
+    border-bottom: 1px solid #33A8DB;;
+}
+
+#transform-world p{
+    width: 244px;
+    height: 141px;
+
+    padding-top: 111px;
+    padding-left: 198px;
+
+    text-shadow: 3px 2px 0px #33A8DB;
+    font-size: 40px;
+    font-weight: 900;
+    text-transform: lowercase;
+
+}
+/*            Quarta seção*/
+
+#professional-challenges{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding-top: 76px;
+}
+
+#professional-challenges h2 {
+
+    width: 746px;
+
+    color: #33A8DB;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 6.08px;
+
+    margin-bottom: 10px;
+}
+
+#professional-challenges p{
+    width: 762px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 91px;
+}
+
+footer{
+    border-top: 1px solid #33A8DB;
+    background: linear-gradient(180deg, rgba(51, 168, 219, 0.00) 0%, rgba(51, 168, 219, 0.20) 99.99%, rgba(51, 168, 219, 0.20) 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 59px;
+    padding-bottom: 38px;
+}
